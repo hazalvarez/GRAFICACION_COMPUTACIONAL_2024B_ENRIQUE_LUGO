@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/gamen/OneDrive/Documentos/SEMESTRE 7/S7-GRAFICACION COMPUTACIONAL/GRAFICACION_COMPUTACIONAL_2024B_ENRIQUE_LUGO/ProyectoManim/media/videos/scene/480p15/partial_movie_files/SquareToCircle/1185818338_41213021_223132457.mp4'
+file 'file:C:/Users/gamen/OneDrive/Documentos/SEMESTRE 7/S7-GRAFICACION COMPUTACIONAL/GRAFICACION_COMPUTACIONAL_2024B_ENRIQUE_LUGO/ProyectoManim/media/videos/scene/480p15/partial_movie_files/SquareToCircle/624642324_1243020661_3608672878.mp4'
+file 'file:C:/Users/gamen/OneDrive/Documentos/SEMESTRE 7/S7-GRAFICACION COMPUTACIONAL/GRAFICACION_COMPUTACIONAL_2024B_ENRIQUE_LUGO/ProyectoManim/media/videos/scene/480p15/partial_movie_files/SquareToCircle/624642324_791163597_3608672878.mp4'
