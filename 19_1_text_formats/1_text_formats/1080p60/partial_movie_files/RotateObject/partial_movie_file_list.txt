@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/gamenrick/Descargas/PIZZACHE/media/videos/clase_25_nov/1080p60/partial_movie_files/RotateObject/3529212410_2307167102_223132457.mp4'
+file 'file:/home/gamenrick/Descargas/PIZZACHE/media/videos/clase_25_nov/1080p60/partial_movie_files/RotateObject/3040924799_1141282389_3318278460.mp4'
+file 'file:/home/gamenrick/Descargas/PIZZACHE/media/videos/clase_25_nov/1080p60/partial_movie_files/RotateObject/3040924799_1141282389_1741758608.mp4'
+file 'file:/home/gamenrick/Descargas/PIZZACHE/media/videos/clase_25_nov/1080p60/partial_movie_files/RotateObject/3040924799_1141282389_871551980.mp4'
+file 'file:/home/gamenrick/Descargas/PIZZACHE/media/videos/clase_25_nov/1080p60/partial_movie_files/RotateObject/3040924799_1141282389_4278652625.mp4'
+file 'file:/home/gamenrick/Descargas/PIZZACHE/media/videos/clase_25_nov/1080p60/partial_movie_files/RotateObject/3040924799_1141282389_77565554.mp4'
