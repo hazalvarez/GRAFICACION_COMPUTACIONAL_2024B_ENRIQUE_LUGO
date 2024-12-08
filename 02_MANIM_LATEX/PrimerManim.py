@@ -12,3 +12,5 @@ class FirstScene(Scene):
         
 #codigo para ejecutar y generar escena 
 #manim archivo.py NombreClase -p
+
+#Revisado
